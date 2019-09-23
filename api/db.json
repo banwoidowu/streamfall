@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Great Stream",
+      "id": 2
+    },
+    {
+      "title": "ME streaming component reuse",
+      "description": "The stream is about refactoring",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "Testing Navigation ",
+      "userId": "113808274720868175864",
+      "id": 5
+    },
+    {
+      "title": "Test",
+      "description": "Testing saving path strings in variables",
+      "userId": "113808274720868175864",
+      "id": 6
+    },
+    {
+      "title": "Test",
+      "description": "Testing saving path strings in variables",
+      "userId": "113808274720868175864",
+      "id": 7
+    },
+    {
+      "title": "Test",
+      "description": "Testing Navigation ",
+      "userId": "113808274720868175864",
+      "id": 8
+    },
+    {
+      "title": "Test",
+      "description": "Further Navigation Test",
+      "userId": "113808274720868175864",
+      "id": 9
+    }
+  ]
+}
